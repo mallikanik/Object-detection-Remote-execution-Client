@@ -1,6 +1,5 @@
 # Object-detection-Remote-execution-Client
- Object detection demo for Remote execution at client side (Android)
- Developed from Haoxin Wang's research works:
+ Object detection demo for Remote execution at client side (Android) developed from Haoxin Wang's research works:
  
  Haoxin Wang and Jiang Xie, "User Preference Based Energy-Aware Mobile AR System with Edge Computing," in Proc. IEEE International Conference on Computer Communications (INFOCOM 2020), Beijing, China, Apr. 2020, pp.1-10. (https://infocom2020.ieee-infocom.org/accepted-paper-list-main-conference)
  
